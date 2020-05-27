@@ -9,12 +9,10 @@ The first (3) octets of the IP address will be assigned to the project before in
 |:---:            |:---:          |:---:        |
 | assigned by slx | switch number | port number |
 
+<br>
+**Switch Number = 0-2. Numbers are base 0 i.e., switch 1 is #0**
 <br><br>
-xxx.xxx.xxx.1-48 - Network Switch 1, (base 0) Ports 1-48
-<br><br>
-xxx.xxx.xxx.101-148 - Network Switch 2, Ports 1-48
-<br><br>
-xxx.xxx.xxx.201-248 - Network Switch 3, Ports 1-48
+**Port Numbers = 1-48**
 <br><br>
 **Examples**
 <br>
