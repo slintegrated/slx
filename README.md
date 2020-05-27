@@ -15,8 +15,8 @@ The first (3) octets of the IP address will be assigned to the project before in
   * Device connected to Network Switch 2, Port 16 = xxx.xxx.xxx.116
 
 * Network switch ip addresses
- * Switch 1 (0) = xxx.xxx.xxx.99
- * Switch 2 (1) = xxx.xxx.xxx.199
- * Switch 3 (2) = xxx.xxx.xxx.253
+  * Switch 1 (0) = xxx.xxx.xxx.99
+  * Switch 2 (1) = xxx.xxx.xxx.199
+  * Switch 3 (2) = xxx.xxx.xxx.253
 * Routers
- * xxx.xxx.xxx.254
+  * xxx.xxx.xxx.254
