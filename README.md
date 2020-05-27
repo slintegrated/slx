@@ -4,9 +4,10 @@ The slx ip address scheme will be optomized for systems with between (1) and (3)
 The first (3) octets of the IP address will be assigned to the project before installation. The final octet will reflect the network switch number followed by the port number.
 
 
-| Octet 1         | Octet 2         | Octet 3         | Octet 4                     |
-|:---             |:---             |:---             |:---                         |
-| assigned by slx | assigned by slx | assigned by slx | switch number / port number |
+
+| xxx.xxx.xxx     | x             | xx          |
+|:---:            |:---:          |:---:        |
+| assigned by slx | switch number | port number |
 
 <br><br>
 xxx.xxx.xxx.1-48 - Network Switch 1, (base 0) Ports 1-48
