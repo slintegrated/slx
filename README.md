@@ -10,7 +10,7 @@ The first (3) octets of the IP address will be assigned to the project before in
 * **Switch Number = 0-2. Numbers are base 0 i.e., switch 1 is #0**
 * **Port Numbers = 1-48**
 
-* **Examples**
+* Examples
   * Device connected to Network Switch 3, Port 24 = xxx.xxx.xxx.224
   * Device connected to Network Switch 2, Port 16 = xxx.xxx.xxx.116
 
