@@ -13,5 +13,5 @@ The first (3) octets of the IP address will be assigned to the project before in
 * **Port Numbers = 1-48**
 
 * **Examples**
-* Device connected to Network Switch 3, Port 24 = xxx.xxx.xxx.224
-* Device connected to Network Switch 2, Port 16 = xxx.xxx.xxx.116
+  * Device connected to Network Switch 3, Port 24 = xxx.xxx.xxx.224
+  * Device connected to Network Switch 2, Port 16 = xxx.xxx.xxx.116
