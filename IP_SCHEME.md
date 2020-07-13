@@ -32,5 +32,5 @@ Because!<br>
 This method allows network layout information right in the scheme. It also means that systems aren't tied to a "device range" scheme that leaves gaping holes of addresses unused. Most of the devices we use are wired, meaning we can physically tie them to a specific port on a network switch. Wireless devices can be spread among the open ranges between switch gaps.<br><br>
 You may notice that addresses 49-52 aren't accounted for, well that's because those PORTS should be used for uplink, not access devices. These ports would house router connections, or switch uplinks.
 
-# Get An Octet Assigned
+# Get An IP Scheme Assigned
 * email slx@slintegrated.com with the subject line "ip scheme please" with details about your project in the body.
